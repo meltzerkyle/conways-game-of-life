@@ -254,7 +254,7 @@ class App extends Component {
           <Button onClick={this.slowButton}>Slow</Button>
           <Button onClick={this.fastButton}>Fast</Button>
           <ButtonDropdown
-            className="dropup"
+            // className="dropup"
             isOpen={this.state.dropdownOpen}
             toggle={this.toggle}
           >
@@ -265,7 +265,7 @@ class App extends Component {
             </DropdownMenu>
           </ButtonDropdown>
           <ButtonDropdown
-            className="dropup"
+            // className="dropup"
             isOpen={this.state.dropdownOpen2}
             toggle={this.toggle2}
           >

@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/conways-game-of-life/static/js/runtime~main.be9fb68f.js"
   },
   {
-    "revision": "cc0276a54cb84ed29dcd",
-    "url": "/conways-game-of-life/static/js/main.cc0276a5.chunk.js"
+    "revision": "a876debccaaf2fc12720",
+    "url": "/conways-game-of-life/static/js/main.a876debc.chunk.js"
   },
   {
     "revision": "882bd5e9d8877477a7d2",
     "url": "/conways-game-of-life/static/js/1.882bd5e9.chunk.js"
   },
   {
-    "revision": "cc0276a54cb84ed29dcd",
-    "url": "/conways-game-of-life/static/css/main.868043e0.chunk.css"
+    "revision": "a876debccaaf2fc12720",
+    "url": "/conways-game-of-life/static/css/main.686ba986.chunk.css"
   },
   {
     "revision": "882bd5e9d8877477a7d2",
     "url": "/conways-game-of-life/static/css/1.d6d7660d.chunk.css"
   },
   {
-    "revision": "042b061e7cb1b7aa94eda49637c8354b",
+    "revision": "5c49550e5582779b6027bfc3f73a867b",
     "url": "/conways-game-of-life/index.html"
   }
 ];
